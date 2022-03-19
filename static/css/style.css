@@ -1,8 +1,8 @@
 
 body {
-    background-color: #000000 !important;
+    background-color: #1b1b1b !important;
     font-family: Arial, sans-serif !important;
-    color: #fff !important;
+    color: rgb(200, 200, 200) !important;
 }
 
 .footer {
@@ -20,7 +20,7 @@ body {
 }
 
 .accordion-body {
-    background-color:#000000;
+    background-color:#1b1b1b;
 }
 
 .accordion-button:not(.collapsed)::before, ::after {
